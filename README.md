@@ -1,3 +1,11 @@
+## Goal 
+
+I want to explore autogenerating NFTs using deep learning and AI. I followed the instructions for StyleGan3 and after some tinkering managed to generate some NFTs with varying levels of success.
+
+The generated NFTs are in output.
+
+Below is readme.m from the original stylegan3 repo.
+
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
 ![Teaser image](./docs/stylegan3-teaser-1920x1006.png)
